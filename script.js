@@ -56,7 +56,7 @@ function renderCart() {
   });
   message += `الإجمالي: ${totalPrice} EGP`;
 
-  whatsappOrder.href = `https://wa.me/201144382584?text=${encodeURIComponent(message)}`;
+  whatsappOrder.href = `https://wa.me/201207147614?text=${encodeURIComponent(message)}`;
 }
 
 function removeFromCart(index) {
